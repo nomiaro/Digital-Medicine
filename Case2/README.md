@@ -85,7 +85,7 @@ python tools/train.py configs/swin_transformer_finetune.py --work-dir {your_resu
 ```
 
 ## 重現結果
-下載[checkpoint]()
+下載[checkpoint](https://drive.google.com/file/d/17d96qH1GtNhpBzJeyhZWCNJlRBdh5eTl/view?usp=sharing)
 在`mmclassification/tool/test.py:164`加上:
 ```python
 CLASSES = ['Negative', 'Typical', 'Atypical']
