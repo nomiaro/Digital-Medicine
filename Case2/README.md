@@ -21,7 +21,7 @@ git clone https://github.com/nomiaro/Digital-Medicine.git
 ## 準備資料
 前往[Kaggle](https://www.kaggle.com/c/digital-medicine-2021-case-presentation-2/data)將data.zip下載下來並在Case2資料夾解壓縮
 ```
-cd Digital_Medicine/Case2
+cd Digital-Medicine/Case2
 unzip data.zip
 ```
 完成後擺放成以下結構:
